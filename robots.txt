@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /zr/
+Sitemap: https://idkzr.com/sitemap.xml
